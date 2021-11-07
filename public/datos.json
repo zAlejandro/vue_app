@@ -1,0 +1,42 @@
+[
+    {
+        "Ubicacion": "Santo Domingo, Republica Dominicana",
+        "Descripcion": "se necesita un web designer que...",
+        "Posicion": "Diseñador web",
+        "URL": "http:...",
+        "Tipo": "tiempo completo",
+        "Categoria": "Software",
+        "compañia": "AAA",
+        "fecha": "10/12/2020"
+    },
+    { 
+        "Ubicacion": "Santiago, Chile",
+        "Descripcion": "se necesita un web designer que...",
+        "Posicion": "Diseñador web",
+        "URL": "http:...",
+        "Tipo": "parcial",
+        "Categoria": "Diseño",
+        "compañia": "AAA",
+        "fecha": "10/12/2020"
+    },
+    {
+        "Ubicacion": "new york, NY, USA",
+        "Descripcion": "se necesita un web designer que...",
+        "Posicion": "Diseñador web",
+        "URL": "http:...",
+        "Tipo": "Tiempo completo",
+        "Categoria": "Software",
+        "compañia": "AAA",
+        "fecha": "10/12/2020"
+    },
+    {
+        "Ubicacion": "Orlando, FL, USA",
+        "Descripcion": "se necesita un web designer que...",
+        "Posicion": "Ingeniero de sistemas",
+        "URL": "http:...",
+        "Tipo": "Tiempo completo",
+        "Categoria": "IT",
+        "compañia": "AAA",
+        "fecha": "10/12/2020"
+    }
+]
